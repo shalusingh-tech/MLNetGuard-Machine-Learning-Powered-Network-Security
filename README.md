@@ -101,13 +101,13 @@ The NSS KDD dataset, an extension of the popular KDD Cup 1999 dataset, consists 
 Clone the project
 
 ```bash
-  git clone https://github.com/kirpalsingh225/Network-Security-with-Machine-Learning
+  git clone https://github.com/shalusingh-tech/MLNetGuard-Machine-Learning-Powered-Network-Security-Solution.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd Network Security with Machine Learning
+  cd MLNetGuard-Machine-Learning-Powered-Network-Security-Solution
 ```
 
 Install dependencies
